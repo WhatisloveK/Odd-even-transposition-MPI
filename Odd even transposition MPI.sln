@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MPILab4", "MPILab4\MPILab4.vcxproj", "{FD9F2EFE-C0D4-41BF-BC0C-10DB15845FDD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MPILab4Serial", "MPILab4Serial\MPILab4Serial.vcxproj", "{4B22B75D-9FA0-47D8-A25D-FFA48474E4F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9F2EFE-C0D4-41BF-BC0C-10DB15845FDD}.Debug|x64.ActiveCfg = Debug|x64
+		{FD9F2EFE-C0D4-41BF-BC0C-10DB15845FDD}.Debug|x64.Build.0 = Debug|x64
+		{FD9F2EFE-C0D4-41BF-BC0C-10DB15845FDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD9F2EFE-C0D4-41BF-BC0C-10DB15845FDD}.Debug|x86.Build.0 = Debug|Win32
+		{FD9F2EFE-C0D4-41BF-BC0C-10DB15845FDD}.Release|x64.ActiveCfg = Release|x64
+		{FD9F2EFE-C0D4-41BF-BC0C-10DB15845FDD}.Release|x64.Build.0 = Release|x64
+		{FD9F2EFE-C0D4-41BF-BC0C-10DB15845FDD}.Release|x86.ActiveCfg = Release|Win32
+		{FD9F2EFE-C0D4-41BF-BC0C-10DB15845FDD}.Release|x86.Build.0 = Release|Win32
+		{4B22B75D-9FA0-47D8-A25D-FFA48474E4F1}.Debug|x64.ActiveCfg = Debug|x64
+		{4B22B75D-9FA0-47D8-A25D-FFA48474E4F1}.Debug|x64.Build.0 = Debug|x64
+		{4B22B75D-9FA0-47D8-A25D-FFA48474E4F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B22B75D-9FA0-47D8-A25D-FFA48474E4F1}.Debug|x86.Build.0 = Debug|Win32
+		{4B22B75D-9FA0-47D8-A25D-FFA48474E4F1}.Release|x64.ActiveCfg = Release|x64
+		{4B22B75D-9FA0-47D8-A25D-FFA48474E4F1}.Release|x64.Build.0 = Release|x64
+		{4B22B75D-9FA0-47D8-A25D-FFA48474E4F1}.Release|x86.ActiveCfg = Release|Win32
+		{4B22B75D-9FA0-47D8-A25D-FFA48474E4F1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {094FD9B2-0974-4CCB-A870-365B26F43638}
+	EndGlobalSection
+EndGlobal
